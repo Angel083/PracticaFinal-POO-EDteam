@@ -3,4 +3,4 @@
 Pequeña apliación que permite registrar cursos y usuarios para dichos cursos.
 Los usurios podrán ser profesores o alumnos.
 ---
-Aprendido en la plataforma de EDteams
+Aprendido en la plataforma de EDteam
